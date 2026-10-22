@@ -22,7 +22,7 @@ require (
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/storage-lock/go-events v0.0.4 // indirect
+	github.com/storage-lock/go-events v0.0.5 // indirect
 	github.com/storage-lock/go-storage v0.0.3 // indirect
 	github.com/storage-lock/go-storage-events v0.0.6 // indirect
 	github.com/storage-lock/go-utils v0.0.2 // indirect
